@@ -1,0 +1,11 @@
+.inputWrapper {
+  width: 100%;
+}
+
+.form {
+  display: flex;
+  margin-top: 5rem;
+  align-items: center;
+  flex-direction: column;
+  width: 30%;
+}
